@@ -1,0 +1,14 @@
+
+
+java:S1192"MDefine a constant instead of duplicating this literal "Epam Systems" 4 times.(ÍáŸ&8ü–å‡Ä2J$d2e9215a-47c9-44b5-8364-6f8c2ce031f7
+“
+java:S1192"KDefine a constant instead of duplicating this literal "Mastercard" 3 times.(şÌìÿÿÿÿÿ8ü–å‡Ä2J$870a9362-6c98-4c82-bc45-fc9b7d6ea3f9
+
+java:S1144""HRemove this unused private "scenarioWithNoProductsMapForProduct" method.(ŠÅ†²şÿÿÿÿ8ş–å‡Ä2J$39ed7bfc-e611-42db-98c8-a167aed02b1e
+‹
+java:S1144("CRemove this unused private "scenarioWithNoProductForClient" method.(—í˜¢şÿÿÿÿ8ş–å‡Ä2J$840b7c14-58b5-446e-afc2-61ad9e9958a6
+…
+java:S1144-"BRemove this unused private "scenarioWithNoClientForVendor" method.(­ëô©8ëé‡Ä2J$aca2a719-be5b-4716-87b7-fc4d3acfc2ff
+m	java:S106"+Replace this use of System.out by a logger.(¨”Ğÿ8…—å‡Ä2J$a7aaa1ee-99ae-4bde-9413-1cf5be9f7856
+{
+java:S1128"8Remove this unused import 'java.util.function.Supplier'.(†ïÿ‘8¶¬è‡Ä2J$f370a3ed-f6d0-445d-b6be-7fb25aceaeb4

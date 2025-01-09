@@ -1,0 +1,39 @@
+
+›
+java:S1602"SRemove useless curly braces around statement and then remove useless return keyword(Óù¥ßşÿÿÿÿ8˜Ê‡Ä2J$b58e7950-eed6-4d51-9ef4-f4344c335ede
+r	java:S106"+Replace this use of System.out by a logger.(Ú²¢Şûÿÿÿÿ8™Ê‡Ä2J$46fdf5ac-1c05-41a3-92a4-dd1e4bedc64e
+r	java:S106 "+Replace this use of System.out by a logger.(ùÔ×¤ùÿÿÿÿ8›Ê‡Ä2J$193f2439-9fd4-4092-bb23-f28a607bc7db
+d
+java:S3864#"!Remove this use of "Stream.peek".(¿È©•8›Ê‡Ä2J$82161bcd-6790-4573-86ba-efc9a52444f5
+o
+java:S1602#",Remove useless curly braces around statement(¿È©•8›Ê‡Ä2J$9844cd72-631a-4d64-b623-9fead2dfffd2
+m	java:S106'"+Replace this use of System.out by a logger.(¦ö÷ã8œÊ‡Ä2J$642994a6-9c4c-4085-9159-d1a6cb10be3f
+d
+java:S3864+"!Remove this use of "Stream.peek".(¿È©•8œÊ‡Ä2J$0969961b-d135-44b6-a61b-1de3dd539437
+o
+java:S1602+",Remove useless curly braces around statement(¿È©•8œÊ‡Ä2J$757842ed-3b01-4b20-acdc-6d2cdc5c06b7
+o
+java:S1602.",Remove useless curly braces around statement(óÁÜò8œÊ‡Ä2J$9477489a-fe97-4d71-9811-96a044bbca57
+ƒ
+java:S1612."@Replace this lambda with method reference 'System.out::println'.(óÁÜò8Ê‡Ä2J$8b022008-55d1-4591-9732-4db8ca055ad4
+r	java:S106/"+Replace this use of System.out by a logger.(ÍÕ§§ùÿÿÿÿ8Ê‡Ä2J$f7abf744-c0f1-408d-a589-4553ef3343b8
+m	java:S1063"+Replace this use of System.out by a logger.(ÓÄø¸8Ê‡Ä2J$c037a4d0-24f4-42a6-a144-98946e96950f
+
+java:S16125"<Replace this lambda with method reference 'Order::getPrice'.(¸åÅ8Ê‡Ä2J$257b1ace-8470-4b2b-8f6c-09cc48a8061c
+ˆ
+java:S16126"@Replace this lambda with method reference 'System.out::println'.(µšª²ûÿÿÿÿ8Ê‡Ä2J$03c3de89-b17f-47dc-8c4f-372e05f64370
+r	java:S1066"+Replace this use of System.out by a logger.(µšª²ûÿÿÿÿ8Ê‡Ä2J$40ec6c8d-68ac-43e6-8009-b3e63f0123e3
+r	java:S1069"+Replace this use of System.out by a logger.(ÀÀ¢ùÿÿÿÿ8Ê‡Ä2J$c2abeac9-3d67-4f0f-b449-f9ac0f8b2256
+‚
+java:S1612;"?Replace this lambda with method reference 'Order::getCategory'.(›ûâ¯8ŸÊ‡Ä2J$792b9c18-f370-4ccd-886b-36f3ca2f280d
+m	java:S106="+Replace this use of System.out by a logger.(ä¦ò¢8ŸÊ‡Ä2J$4fd0b727-2835-4695-a2c8-b86ef96f7816
+m	java:S106@"+Replace this use of System.out by a logger.(‚‘”ı8ŸÊ‡Ä2J$725d462c-a0e6-4dd4-bc4b-913b0d1c16b7
+
+java:S1612C"?Replace this lambda with method reference 'Order::getCategory'.(ƒñ28­È„‡Ä2J$a61ee961-b48b-4534-b547-d5ff0ddf5024
+
+java:S1612D">Replace this lambda with method reference 'Order::getProduct'.(æ´š™8®È„‡Ä2J$867a2e46-bb31-4abf-9259-1a4a3f249db5
+m	java:S106F"+Replace this use of System.out by a logger.(€»¤¥8 Ê‡Ä2J$e78176fb-6389-4e10-9099-e17b52ce8649
+€
+java:S1128"8Remove this unused import 'java.util.function.Consumer'.(Ì†ƒÔùÿÿÿÿ8…‹…‡Ä2J$8aa333d8-288b-49d0-8488-358b909bcdd3
+{
+java:S1128"8Remove this unused import 'java.util.function.Function'.(»³Í8…‹…‡Ä2J$01b94164-dd65-4817-9abc-acb49ed32341
