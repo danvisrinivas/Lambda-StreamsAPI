@@ -6,17 +6,7 @@ import java.util.function.Supplier;
 public class VendorApp {
 	
 	public static void main(String[] args) throws Exception {
-		Vendor vendor = scenarioWithAllProducts();
-
-		Map<String, String> products = Optional.ofNullable(vendor)
-				.map(Vendor::getClient)
-				.map(Client::getProduct)
-				.map(Product::getProducts)
-				// Use Supplier whenever you wanted to throw an exception with message to end user
-				.orElseThrow(() -> new Exception("No Products Found"));
-
-		System.out.println(products);
-
+		// Print Products from Vendor instance. Imagine that this is the response we are getting from Rest API.
 	}
 
 	private static Vendor scenarioWithAllProducts() {
